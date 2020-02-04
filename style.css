@@ -1,0 +1,23 @@
+body{
+    background-color: seagreen;
+    background-image: url("img/fondo.jpg");
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    color: white;
+    background-attachment: fixed;/*NOS PERMITE FIJAR EL FONDO PARA QUE NO SE MUEVA CON EL SCROLL*/
+    background-position: left bottom;
+}
+
+#caja{
+    border: 5px solid black;
+    padding: 10px;
+    color: cornsilk;
+    background-color: darkgreen;
+}
+h3{
+   color: green;
+   background-color: aqua;
+   border: 3px solid black;
+   background-image: url("img/fondo.jpg");
+   padding: 10px; 
+}
